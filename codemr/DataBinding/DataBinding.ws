@@ -1,0 +1,1 @@
+{"app":{"name":"app","packages":{"com.example.databinding":{"packageName":"com.example.databinding","isAll":false,"classes":["Lcom.example.databinding.DataViewModel","Lcom.example.databinding.MainActivity"]}}}}
